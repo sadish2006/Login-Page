@@ -1,0 +1,142 @@
+
+h3{
+    margin-left: 160px;
+    font-size: 45px;
+    font-family: arial;
+    font-weight:200px;
+    color:white;
+}
+.user{
+    margin-left: 50px;
+    height: 40px;
+    width: 320px;
+    border-radius: 40px;
+    border-width: 1px;
+    padding-left: 20px;
+    font-size: 15px;
+    margin-bottom: 30px;
+    cursor: pointer;
+    color: rgb(13, 12, 12);
+    border-color: white;
+    border-width: 1px;
+    border-style:inherit;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: rgb(247, 218, 223);
+   
+    
+
+
+}
+.user:hover{
+    box-shadow: 5px 5px 5px rgba(246, 242, 242,0.3);
+    
+
+}
+
+.password{
+    margin-left: 50px;
+    height: 40px;
+    width: 320px;
+    border-radius: 40px;
+    border-width: 1px;
+    padding-left: 20px;
+    font-size: 15px;
+    cursor: pointer;
+    background:transparent ;
+    border-color: white;
+    border-width: 1px;
+    border-style:inherit;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: rgb(247, 218, 223);
+    
+    
+    
+
+}
+.password:hover{
+    box-shadow: 5px 5px 5px rgba(246, 242, 242,0.3);
+
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+    font-family: arial;
+    color: white;
+    
+}
+ul{
+    margin-left: 20px;
+}
+.f{
+    padding-left: 75px;
+    cursor: pointer;
+
+}
+.f:hover{
+    text-decoration: underline;
+}
+button{
+color: rgb(8, 7, 7);
+    margin-left: 50px;
+    height: 40px;
+    width: 320px;
+    border-radius: 40px;
+    border-width: 1px;
+    padding-left: 20px;
+    font-size: 15px;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: white;
+    border-color: white;
+    border-width: 1px;
+    border-style: inherit;
+    
+    
+}
+button:hover{
+    box-shadow: 5px 5px 5px rgba(246, 242, 242,0.2);
+
+}
+p{
+    margin-left: 100px;
+    font-family: arial;
+    margin-top: 25px;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+a:hover{
+    text-decoration: underline;
+}
+span{
+    cursor: pointer;
+}
+.box{
+    border-width: 2px;
+    border-color:white;
+    border-style: groove;
+    width: 450px;
+    height: 450px;
+    margin-top: 210px;
+    margin-left: 550px;
+    border-radius: 50px;
+}
+.box:hover{
+    box-shadow: 5px 5px 5px rgba(246, 242, 242,0.2);
+
+}
+body{
+    background: url(sad.avif) no-repeat;
+    background-size: cover;
+    
+
+}
